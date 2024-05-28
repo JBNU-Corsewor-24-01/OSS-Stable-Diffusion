@@ -3,6 +3,8 @@
 
 # Stable Diffusion Model Setup and Jeonbuk National University Symbol Image Generation
 
+# Please refer to https://github.com/CompVis/stable-diffusion.git
+
 ## Introduction
 This project demonstrates how to set up the Stable Diffusion model and use it to generate an image of the Jeonbuk National University (JBNU) symbol. Stable Diffusion is a powerful AI model for generating high-quality images from text descriptions.
 
